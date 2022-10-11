@@ -1,0 +1,98 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-size: 1em;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background: #e6e6e6;
+}
+
+
+.cabecalho{
+  background: rgb(246, 239, 19);
+  text-align: center;
+  margin-right: 20px;
+  line-height: 40px;
+  
+}
+
+.branco{
+  color: white;
+}
+
+.menu{
+ color: white;
+ text-align: center;
+ text-decoration: none;
+ font-weight: bolder;
+ padding: 20px;
+
+}
+
+#area-cabecalho a:link, a:visited{
+  color:#fff ;
+}
+
+a:hover{
+  color: #f7b600;
+   
+}
+
+.area-texto1{
+  padding: 15px;
+  width: 660px;
+  float: left;
+  background: white;
+  color: black;
+
+}
+
+.area-principal{
+  padding: 15px;
+  width: 920px;
+  margin: 0 auto;
+}
+
+.area-postagem-lateral{
+  width: 240px;
+  float: right;
+  background: grey;
+  
+  
+}
+.area-postagem-texto{
+  background: white;
+
+}
+
+.postagem{
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+#data-postagem{
+  font-size: 0.8em;
+  border-bottom: 1px solid #f4f4f4 ;
+  display: block;
+}
+
+
+h2{
+  color: #f7b600;
+  position: relative;
+  left: 39px;
+
+}
+
+#rodape{
+  background: #ccc;
+  clear: both;
+  text-align: center;
+  padding: 15px;
+  
+}
+
+
+
